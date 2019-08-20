@@ -481,6 +481,7 @@ body.offcanvas {
 .panel-heading a:after {
   font-family: "icomoon";
   content: "\e115";
+  color: #2c98f0;
   position: absolute;
   right: 20px;
   font-size: 14px;
