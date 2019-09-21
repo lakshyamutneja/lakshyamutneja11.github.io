@@ -190,13 +190,15 @@ figure {
     font-size: 15px;
     text-align: center;
     font-weight: 400;
-    color: rgba(0, 0, 0, 0.5);
+    color:#2c98f0;
     padding: 0 20px;
     width: 100%; }
     @media screen and (max-width: 768px) {
       #colorlib-aside .colorlib-footer {
+
         position: relative;
-        bottom: 0; } }
+        bottom: 0;
+        color: #2c98f0; } }
     #colorlib-aside .colorlib-footer span {
       display: block; }
     #colorlib-aside .colorlib-footer ul {
